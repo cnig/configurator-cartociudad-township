@@ -11,10 +11,10 @@
 
     <wire:Operator rdf:about="http://wirecloud.com/test">
         <dcterms:title>cartociudad-municipio-configurator</dcterms:title>
-        <wire:displayName>Configurador de servicio Cartociudad Municipio</wire:displayName>
+        <wire:displayName>Cartociudad Municipio - Configurador de servicio</wire:displayName>
         <dcterms:description>Este operador permite configurar el nomenclátor para utilizar el servicio de Cartociudad Municipio.</dcterms:description>
         <dcterms:creator rdf:resource="http://creatoruri/"/>
-        <usdl-core:versionInfo>1.0</usdl-core:versionInfo>
+        <usdl-core:versionInfo>1.2</usdl-core:versionInfo>
         <wire:hasImageUri rdf:resource="images/catalogue.png"/>
         <usdl-core:utilizedResource rdf:resource="js/main.js"/>
         <foaf:page rdf:resource="http://conwet.fi.upm.es/docs/display/wirecloud"/>
